@@ -35,8 +35,3 @@ To run the code, ensure you have the following Python libraries installed:
 3. **Run the Code: Execute the main script to model the reaction and optimize parameters**
    ```bash
    jupyter notebook collaborative_filering_model.ipynb
-
-You can install the required libraries using:
-
-```bash
-pip install -r requirements.txt
